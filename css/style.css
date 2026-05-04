@@ -20,6 +20,12 @@
     
 }
 
+.aside1 {
+    background-color: rgb(111, 138, 192);
+    align-items: center;
+    padding: 10px;
+}
+
 
 .article {
     display: grid;
@@ -54,7 +60,7 @@
     
 }
 
-.aside {
+.aside2 {
  background-color: rgb(111, 138, 192);
  align-items: center;
  padding: 10px;
